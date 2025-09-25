@@ -82,7 +82,7 @@ export function HeroSection() {
               transition={{ delay: 0.4, duration: 0.8 }}
             >
               Discover deep insights into wallets across all major blockchains. 
-              Track performance, analyze risks, and uncover trading patterns on SOL, ETH, BNB, Base & TRX.
+              Track performance, analyze risks, and uncover trading patterns on SOL, ETH, BNB, TRX & Base.
             </motion.p>
 
             {/* Feature Grid */}
